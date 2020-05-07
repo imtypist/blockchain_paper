@@ -13,3 +13,7 @@ This repository collects those classic and elegant outcomes from the blockchain 
 - [CCS'16] **On the Security and Performance of Proof of Work Blockchains**
 
   Arthur Gervais, Ghassan O. Karame, et.al
+
+- **The Bitcoin Backbone Protocol: Analysis and Applications**
+
+  Juan A. Garay, Aggelos Kiayias, Nikos Leonardos
