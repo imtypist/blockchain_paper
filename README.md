@@ -1,10 +1,10 @@
-# blockchain paper collection
+# Blockchain Paper Collection
 
 This repository aims at collecting classic or elegant outcomes from massive blockchain-related research papers.
 
 *Let's read more papers. Welcome to make pull requests.*
 
-### consensus
+### Consensus
 
 - **On Security Analysis of Proof-of-Elapsed-Time (PoET)**
 
@@ -18,7 +18,7 @@ This repository aims at collecting classic or elegant outcomes from massive bloc
 
   Juan A. Garay, Aggelos Kiayias, Nikos Leonardos
 
-### system
+### System Design
 
 - [IEEE ICDCS'18] **ZebraLancer: Decentralized Crowdsourcing of Human Knowledge atop Open Blockchain**
 
@@ -28,14 +28,19 @@ This repository aims at collecting classic or elegant outcomes from massive bloc
 
   Eli Ben-Sasson, Alessandro Chiesa, Christina Garman, Matthew Green, Ian Miers, Eran Tromer, Madars Virza
 
-### smart contract
+### Smart Contract & Privacy
 
 - [IEEE S&P'16] **Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts**
 
   Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou
 
-### privacy
 
 - [IEEE S&P'20] **Zexe: Enabling Decentralized Private Computation**
 
   Sean Bowe, Alessandro Chiesa, Matthew Green, Ian Miers, Pratyush Mishra, Howard Wu
+
+### Survey
+
+- [arXiv:2007.03520] **A Survey of State-of-the-Art on Blockchains: Theories, Modelings, and Tools**
+
+  Huawei Huang, Wei Kong, Sicong Zhou, Zibin Zheng, Song Guo
